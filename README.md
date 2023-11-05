@@ -1,0 +1,2 @@
+# say-salanaliz
+sayısalanaliz
